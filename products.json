@@ -1,0 +1,145 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Яблоки красные",
+        "category": "Фрукты",
+        "price": 150.00,
+        "currency": "RUB",
+        "description": "Свежие, сочные красные яблоки. Отлично подходят для перекуса или приготовления десертов.",
+        "image_url": "https://product-store.ru/upload/iblock/c0a/2ab085c5-518a-11dd-a6a0-000c6ecfc7ba_4ac8d757-7a6a-11dd-84c1-000423d62214.jpeg",
+        "features": [
+          "Сладкие и сочные",
+          "Богаты витаминами",
+          "Без добавок и консервантов"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Картофель",
+        "category": "Овощи",
+        "price": 50.00,
+        "currency": "RUB",
+        "description": "Свежий картофель, идеален для варки, жарки и запеканок.",
+        "image_url": "https://foodcity.ru/storage/products/October2018/pDL1EPuUxqF6PHOLds0i.jpg",
+        "features": [
+          "Местное производство",
+          "Высокое содержание крахмала",
+          "Подходит для различных блюд"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Молоко",
+        "category": "Молочные продукты",
+        "price": 60.00,
+        "currency": "RUB",
+        "description": "Свежее молоко. Отличное для приготовления каш и напитков.",
+        "image_url": "https://ferma-m2.ru/images/news/news_list_big/crop_moloko.jpg",
+        "features": [
+          "Натуральное молоко",
+          "Без консервантов",
+          "Подходит для детей и взрослых"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Хлеб ржаной",
+        "category": "Хлебобулочные изделия",
+        "price": 40.00,
+        "currency": "RUB",
+        "description": "Свежий ржаной хлеб с хрустящей корочкой и насыщенным вкусом.",
+        "image_url": "https://eda.ru/images/RecipePhoto/95x95/rzhanoy-hleb_139627_photo_155610.webp",
+        "features": [
+          "Без добавления химии",
+          "Долгий срок хранения",
+          "Высокое содержание клетчатки"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Куриное филе",
+        "category": "Мясо и птица",
+        "price": 250.00,
+        "currency": "RUB",
+        "description": "Нежное куриное филе без костей и кожи, готово к приготовлению.",
+        "image_url": "https://media.ovkuse.ru/images/step_attachments/34835662-b603-417e-952a-c77a4735352f/34835662-b603-417e-952a-c77a4735352f.png",
+        "features": [
+          "Высокое содержание белка",
+          "Подходит для диетического питания",
+          "Без добавок и консервантов"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Томаты",
+        "category": "Овощи",
+        "price": 120.00,
+        "currency": "RUB",
+        "description": "Свежие, спелые томаты с сочным вкусом. Идеальны для салатов и соусов.",
+        "image_url": "https://foodcity.ru/storage/products/October2018/tFVuCnmXrEh4rWqkH3Gx.jpg",
+        "features": [
+          "Без химических удобрений",
+          "Содержат антиоксиданты",
+          "Подходят для вегетарианцев"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Гречневая крупа",
+        "category": "Крупы",
+        "price": 80.00,
+        "currency": "RUB",
+        "description": "Гречневая крупа премиум класса, не содержит ГМО, идеально подходит для каш и гарниров.",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIhE5Id4Xc-7iPIDLFCyPl_T7YJcr4ekHBVQ&s",
+        "features": [
+          "Источник растительного белка",
+          "Без добавок и консервантов",
+          "Глютен-свободная"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Оливковое масло",
+        "category": "Масла",
+        "price": 350.00,
+        "currency": "RUB",
+        "description": "Высококачественное оливковое масло холодного отжима, идеально для заправки салатов и жарки.",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Oli_de_l%27Empord%C3%A0.jpg",
+        "features": [
+          "100% натуральное",
+          "Подходит для жарки и заправки блюд",
+          "Содержит полезные мононенасыщенные жиры"
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Шоколад тёмный 70%",
+        "category": "Конфеты и сладости",
+        "price": 180.00,
+        "currency": "RUB",
+        "description": "Тёмный шоколад с 70% содержанием какао, с насыщенным вкусом и тонким ароматом.",
+        "image_url": "https://img.vkusvill.ru/pim/images/site_LargeWebP/5fcadf9e-dce7-4f1b-bfba-4a4bd7a085e8.webp?1706405390.497",
+        "features": [
+          "Высокое содержание антиоксидантов",
+          "Идеален для десертов и перекусов",
+          "Без добавления сахара"
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Сок апельсиновый",
+        "category": "Напитки",
+        "price": 120.00,
+        "currency": "RUB",
+        "description": "Свежевыжатый апельсиновый сок с насыщенным вкусом и витаминами C и A.",
+        "image_url": "https://pivobraga.ru/image/cache/data/vine/soki/0/sok_apelsinovyy_koncentrirovannyy_1kg_131-600x600.jpg",
+        "features": [
+          "100% натуральный",
+          "Без добавок и консервантов",
+          "Идеален для утренних коктейлей"
+        ]
+      }
+    ]
+  }
+  
